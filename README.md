@@ -1,4 +1,3 @@
-Cameron Philip
 Currently an MSc Financial Engineering student at the University of Birmingham, transitioning from a background in Electrical and Electronic Engineering. I am looking to specialise in Quantitative Trading/Research and Market Making, applying rigorous mathematical modelling to market microstructure.
 
 My transition from Engineering to Finance was driven by a fascination with signal processing and optimisation. I enjoy applying the deterministic logic of control systems to the stochastic nature of financial markets. This passion led me to my current focus: exploring the tension between theoretical probability (Martingales, Stochastic Calculus) and the practical realities of risk management (Stopping Times, Drawdown Limits).
